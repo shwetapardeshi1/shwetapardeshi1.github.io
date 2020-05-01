@@ -166,7 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
@@ -201,10 +201,15 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-
+  
+collections:
+  home:
+    paginate_path: "/blog/page:num/"
+  posts:
+    paginate_path: "/posts/page/:num/"
 # prose.io config
 prose:
-  rooturl: '_posts'
+#   rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html

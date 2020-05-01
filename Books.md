@@ -1,3 +1,3 @@
 title: Book Summary
-bigimg: /assets/img/books.jpg
+bigimg: /assets/img/book.jpg
 

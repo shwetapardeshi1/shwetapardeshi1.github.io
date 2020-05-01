@@ -166,7 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-# paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
@@ -203,9 +203,9 @@ exclude:
   - Vagrantfile
   
 collections:
-  home:
-    paginate_path: "/blog/page:num/"
   posts:
+    paginate_path: "/blog/page:num/"
+  blog:
     paginate_path: "/posts/page/:num/"
 # prose.io config
 prose:

@@ -1,1 +1,1 @@
-Here is the details of my Projects
+Here are the details of my Projects

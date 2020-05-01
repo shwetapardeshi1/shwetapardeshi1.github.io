@@ -8,7 +8,4 @@ bigimg: /assets/img/book.jpg
   ```
   lmao
   ```
-*A boy in Stripped Pyjamas*
-  ```
-  somethinggg
-  ```
+

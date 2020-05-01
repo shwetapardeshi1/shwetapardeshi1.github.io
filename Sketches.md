@@ -1,5 +1,5 @@
 ---
-layout: 
-title:
-bgimg: 
----
+layout: post
+bigimg: /assets/img/art.jpg
+--- 
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Summary
+title: Books Summary
 bigimg: /assets/img/book.jpg
 
 ---

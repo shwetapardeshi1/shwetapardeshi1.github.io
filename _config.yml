@@ -25,6 +25,7 @@ navbar-links:
  About Me: "aboutme"
  Projects: "Projects"
  CV: "/assets/CV.pdf"
+ My Reads: "Books"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

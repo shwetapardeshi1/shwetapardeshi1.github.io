@@ -20,16 +20,16 @@ author: Shweta Pardeshi
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+
 navbar-links:
-  # Projects: "projects/index"
-  Publications: "publications"
-  Blog: "blog/index"
-  News: "news"
-  CV: "/files/cv.pdf"
+ About Me: "aboutme"
+#   Projects:
+#   CV:
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.jpg"
+avatar: "/assets/img/image.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -61,19 +61,21 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Apoorv Agnihotri
+  name: Shweta Pardeshi
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+
 social-network-links:
-  # rss: true
-  email: "apoorvagni@gmail.com"
-  github: apoorvagnihotri
-  twitter: ApoorvAgnihotr2
-  instagram: apoorvagni0
-  linkedin: apoorv-agnihotri-36119312a
+ email: "shwetapardeshi126@gmail.com"
+ github: shwetapardeshi1
+ instagram: shweta_pardeshi1
+#   rss: true
+#  reddit: yourname
+ linkedin: shweta-pardeshi1998
+
 #  xing: yourname
 #  reddit: yourname
 #  stackoverflow: "3943160/daattali"
@@ -87,8 +89,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#   twitter: true
   # facebook: true
+  instagram: true
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -101,7 +104,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-34837384-2"
+# google_analytics: "UA-34837384-2"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -118,7 +121,7 @@ google_analytics: "UA-34837384-2"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "apoorvagni"
+# disqus: "apoorvagni"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
@@ -174,7 +177,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+#       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:

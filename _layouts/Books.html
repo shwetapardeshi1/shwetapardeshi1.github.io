@@ -1,10 +1,11 @@
+
 ---
-layout: page
+layout: base
 ---
 
-{{ content }}
+{% include header.html type="page" %}
 
-{% assign posts = paginator.posts | default: site.posts %}
+
 
 <div class="posts-list">
   {% for post in posts %}

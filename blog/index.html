@@ -4,7 +4,7 @@ title: Books Summary
 bgimg: /assetls/img/book.jpg
 use-site-title: true
 ---
-{% assign posts = paginator.books | default: site.books %}
+{% assign posts = paginator.posts | default: site.books %}
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">

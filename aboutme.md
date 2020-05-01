@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Shweta Pardeshi, Junior Undegraduate in [Electrical Engineering](https://www.iitgn.ac.in/academics/ee/) at [IIT Gandhinagar](https://www.iitgn.ac.in/). 
+ 
+### My Interests
+Machine Learning 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Follow me on [LinkedIn](www.linkedin.com/in/shweta-pardeshi1998) and [Medium](https://medium.com/@pardeshi.shweta). Feel free to ping me at mt [email](pardeshi.shweta@iitgn.ac.in) :)
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+

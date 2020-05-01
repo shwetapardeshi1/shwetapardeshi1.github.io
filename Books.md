@@ -1,5 +1,5 @@
 ---
-layout: Books
+layout: Page
 title: Books Summary
 bigimg: /assets/img/book.jpg
 ---

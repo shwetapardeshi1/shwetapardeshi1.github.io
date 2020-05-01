@@ -70,7 +70,7 @@ author: Shweta Pardeshi
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 
 social-network-links:
- email: "shwetapardeshi126@gmail.com"
+ email: "pardeshi.shweta@iitgn.ac.in"
  github: shwetapardeshi1
  instagram: "https://www.instagram.com/shweta_pardeshi11/?hl=en"
 #   rss: true
@@ -92,6 +92,7 @@ social-network-links:
 share-links-active:
 #   twitter: true
   # facebook: true
+  email: true
   instagram: true
   linkedin: true
 

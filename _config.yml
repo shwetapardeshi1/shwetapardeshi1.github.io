@@ -23,8 +23,8 @@ title: Shweta Pardeshi
 
 navbar-links:
  About Me: "aboutme"
-  Projects:
-  CV:
+ Projects: "Projects"
+ CV: "/assets/CV.pdf"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

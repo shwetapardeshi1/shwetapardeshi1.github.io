@@ -5,10 +5,10 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign books = paginator.books | default: site.books %}
 
-<div class="posts-list">
-  {% for post in posts %}
+<div class="books-list">
+  {% for post in books %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>

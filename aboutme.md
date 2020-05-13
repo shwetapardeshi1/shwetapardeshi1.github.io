@@ -9,7 +9,7 @@ Hi! I'm Shweta Pardeshi, Junior Undegraduate in [Electrical Engineering](https:/
 ### My Interests
 Machine Learning 
 
-Follow me on [LinkedIn](www.linkedin.com/in/shweta-pardeshi1998) and [Medium](https://medium.com/@pardeshi.shweta). Feel free to ping me at mt [email](mailto:pardeshi.shweta@iitgn.ac.in) :)
+Follow me on [LinkedIn](https://www.linkedin.com/in/shweta-pardeshi1998/) and [Medium](https://medium.com/@pardeshi.shweta). Feel free to ping me at mt [email](mailto:pardeshi.shweta@iitgn.ac.in) :)
 
 
 
